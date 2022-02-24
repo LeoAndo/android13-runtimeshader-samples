@@ -113,7 +113,7 @@ public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback
         return true;
     }
 
-    private void draw() {
+    private synchronized void draw() {
         final Canvas canvas = holder.lockCanvas();
         final float uniformTime = (System.currentTimeMillis() - timeBase) / 1000;
         Log.d(TAG, "draw: timeBase: " + timeBase);
