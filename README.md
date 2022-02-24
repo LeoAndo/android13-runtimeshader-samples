@@ -17,4 +17,5 @@ targetSdkPreview "Tiramisu"
 
 # refs
 https://cs.android.com/android/platform/superproject/+/master:external/skia/platform_tools/android/apps/androidkitdemo/src/main/java/org/skia/androidkitdemo1/RuntimeShaderActivity.java?q=RuntimeShader&ss=android%2Fplatform%2Fsuperproject<br>
+https://cs.android.com/android/platform/superproject/+/master:external/skia/platform_tools/android/apps/androidkitdemo/src/main/res/layout/activity_animation.xml?q=activity_animation&ss=android%2Fplatform%2Fsuperproject<br>
 
