@@ -1,7 +1,9 @@
 # Overview
 
-Android app programming school for beginners does not do large-scale app development.<br> 
-this repository is app templates targeting instructors teaching at programming schools.
+Sample for [RuntimeShader API](https://developer.android.com/reference/android/graphics/RuntimeShader)(Android 13+)<br>
+https://developer.android.com/about/versions/13/features#graphics<br>
+
+<strong>This project has not been confirmed to work on the actual Physical Device yet!!</strong><br>
 
 # development environment
 
@@ -13,8 +15,7 @@ minSdkPreview "Tiramisu"
 targetSdkPreview "Tiramisu"
 ```
 
-# [M3BasicSample](https://github.com/LeoAndo/android-app-teaching-material-templates/tree/main/M3BasicSample)
+# refs
+https://cs.android.com/android/platform/superproject/+/master:external/skia/platform_tools/android/apps/androidkitdemo/src/main/java/org/skia/androidkitdemo1/RuntimeShaderActivity.java?q=RuntimeShader&ss=android%2Fplatform%2Fsuperproject<br>
+https://cs.android.com/android/platform/superproject/+/master:external/skia/platform_tools/android/apps/androidkitdemo/src/main/res/layout/activity_animation.xml?q=activity_animation&ss=android%2Fplatform%2Fsuperproject<br>
 
-# [M3SimpleApp](https://github.com/LeoAndo/android-app-teaching-material-templates/tree/main/M3SimpleApp)
-
-# [M2SimpleJavaApp](https://github.com/LeoAndo/android-app-teaching-material-templates/tree/main/M2SimpleJavaApp)
